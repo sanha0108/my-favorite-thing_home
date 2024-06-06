@@ -1,0 +1,128 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("https://i.postimg.cc/PrrgFb5c/image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 55px;
+    font-family: 'Merriweather', serif;
+    font-weight: 500;
+    letter-spacing: 0.8px;
+    margin-bottom: 50px;
+    font-size: 35px;
+}
+
+a{
+    text-decoration: none;
+}
+
+b{
+    color: #710011;
+}
+
+.캔들all{
+    display: inline-block;
+    text-align: center;
+}
+
+.캔들사진{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.이름{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-weight: 800;
+    font-size: 18.5px;
+    color: #710011;
+}
+
+.FN{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 14.5px;
+    color: black;
+}
+
+.향설명{
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: black;
+    overflow: auto;
+    height: 55px;
+    margin-bottom: 38px;
+    margin-top: -8px;
+}
+
+.구입{
+    font-size: 18px;
+    text-align: center;
+    background-color: #710011;
+    padding: 5px 14px 5px 14px;
+    border-radius: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+.블랙체리{
+    padding: 47px 40px 25px 40px;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 280px;
+    height: 640px;
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 15px 15px 15px 15px;
+    display: inline-block;
+    box-shadow: 3px 3px 3px 0.5px #525252;
+    margin-left: 340px;
+}
+
+.터콰이즈{
+    padding: 47px 40px 25px 40px;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 280px;
+    height: 640px;
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 15px 15px 15px 15px;
+    display: inline-block;
+    box-shadow: 3px 3px 3px 0.5px #525252;
+    margin-left: 72px;
+}
+
+.미드나잇{
+    padding: 47px 40px 25px 40px;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 280px;
+    height: 640px;
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 15px 15px 15px 15px;
+    display: inline-block;
+    box-shadow: 3px 3px 3px 0.5px #525252;
+    margin-left: 72px;
+}
+    .이름_m{
+        text-align: center;
+        font-family: 'Merriweather', serif;
+        font-weight: 600;
+        font-size: 18.5px;
+        color: #710011;
+        margin-top: 5px;
+        margin-bottom: -5px;
+    }
